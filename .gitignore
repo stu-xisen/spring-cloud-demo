@@ -1,0 +1,11 @@
+# Project exclude paths
+/eureka-7001/target/
+/eureka-7002/target/
+/eureka-7003/target/
+/feign-consumer-9002/target/
+/hystrix-consumer-9003/target/
+/hystrix-provider-8003/target/
+/service-consumer-9001/target/
+/service-provider-8001/target/
+/service-provider-8002/target/
+/user-service-api/target/

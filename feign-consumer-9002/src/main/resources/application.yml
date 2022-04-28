@@ -1,0 +1,10 @@
+server:
+  port: 9002
+spring:
+  application:
+    name: service-comsumer
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
+
