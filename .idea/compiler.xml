@@ -10,10 +10,12 @@
         <module name="hystrix-consumer-9003" />
         <module name="service-provider-8002" />
         <module name="service-provider-8001" />
+        <module name="feign-comsumer-9002" />
         <module name="service-consumer-9001" />
         <module name="hystrix-provider-8003" />
         <module name="feign-consumer-9002" />
         <module name="user-service-api" />
+        <module name="hystrix-comsumer-9003" />
         <module name="eureka-7001" />
         <module name="eureka-7002" />
       </profile>
@@ -24,7 +26,9 @@
       <module name="eureka-7001" options="-parameters" />
       <module name="eureka-7002" options="-parameters" />
       <module name="eureka-7003" options="-parameters" />
+      <module name="feign-comsumer-9002" options="-parameters" />
       <module name="feign-consumer-9002" options="-parameters" />
+      <module name="hystrix-comsumer-9003" options="-parameters" />
       <module name="hystrix-consumer-9003" options="-parameters" />
       <module name="hystrix-provider-8003" options="-parameters" />
       <module name="service-consumer-9001" options="-parameters" />
